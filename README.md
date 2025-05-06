@@ -14,6 +14,6 @@
 To run this project locally using XAMPP:
 
 1. Download and install [XAMPP](https://www.apachefriends.org/index.html)
-2. Move the project folder (e.g., `bake-corner`) into the `htdocs` directory inside your XAMPP installation (usually `C:/xampp/htdocs/`)
+2. Move the project folder (e.g., `miniature-bakehouse`) into the `htdocs` directory inside your XAMPP installation (usually `C:/xampp/htdocs/`)
 3. Open the XAMPP Control Panel and start **Apache**
 4. In your browser, go to:
