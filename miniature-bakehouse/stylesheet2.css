@@ -1,0 +1,71 @@
+body{
+background-image: url(pexels-castorlystock-3650438.jpg);
+background-position: center;
+background-size:cover ;
+background-repeat: no-repeat;
+width: 100%;
+height: 100hv;
+
+justify-content: center;
+text-align: center;
+}
+input{
+border-radius: 8px;
+padding: 13px;
+background-color:#fff5e1;
+color: #ff5061;
+font-family: cursive;
+}
+h2{
+    margin-top: 80px;
+    font-size: 50px;
+    font-weight: 800;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:sans-serif;
+    color: #fff5e1;
+    
+    
+}
+label{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: azure;
+
+
+}
+nav{
+    background-color: #e48762;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    ul{
+        list-style: none;
+        display: inline;
+    }
+    ul li{
+        display: inline;
+        padding: 15px;
+    }
+    ul li a {
+        color: bisque;
+    }
+    nav ul li a:hover{
+        background-color: bisque;
+        color: #ff5061;
+        padding: 10px;
+        border-radius: 5px;
+    }
+    button{
+        padding: 5px;
+        background-color: #e48762;
+        color: #fff5e1;
+        border-radius: 5px
+    }
+    button:hover{
+background-color: #b81b2b;
+color: azure;
+cursor: pointer;
+
+    }
